@@ -11,4 +11,5 @@ This app provides interesting facts based on the number input by the user. It ut
 
 ## Technology Used
 -HTML
+
 -JavaScript
